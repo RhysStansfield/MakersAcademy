@@ -3,5 +3,6 @@ class Thing
 
   def initialize(name)
     @name = name
+    name
   end
 end
